@@ -8,7 +8,7 @@ https = Net::HTTP.new(url.host, url.port)
 https.use_ssl = true
 
 request = Net::HTTP::Post.new(url)
-request["Authorization"]    = "token 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"
+request["Authorization"]    = "YOUR GIT TOKEN GOES HERE"
 request["Content-Type"]     = "application/json"
 
 file = File.open "release.json"

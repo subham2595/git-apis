@@ -2,6 +2,6 @@
     "release_name" : "Release_v_1.2.3",
     "release_description" : "Release V 1.2.3 GA",
     "commit_sha" : "longTextGoesHere",
-    "repo_owner" : "nitin",
+    "repo_owner" : "subham",
     "repo_name" : "main"
 }
